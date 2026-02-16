@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+.pycache_local/
+.streamlit/
+.playwright_user_data/
+.playwright_storage_state.json
+*.pyc
